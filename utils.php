@@ -1,8 +1,3 @@
-dckjbqdkwclnq
-dchjbekjcqn;qe
-edckjqk;cnj
-
-
 <?php
     
     /**
